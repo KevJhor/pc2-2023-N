@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818358210038",
+    "project_id": "pc2-naydu",
+    "storage_bucket": "pc2-naydu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818358210038:android:50db62bbeb5ebc42100bd7",
+        "android_client_info": {
+          "package_name": "com.example.pc2_2023_naydu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytXv7_O3xECXGkOqM8IiJtFNnMCUJ_1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818358210038:android:782f439dfd3eb36e100bd7",
+        "android_client_info": {
+          "package_name": "dev.naydu.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytXv7_O3xECXGkOqM8IiJtFNnMCUJ_1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
